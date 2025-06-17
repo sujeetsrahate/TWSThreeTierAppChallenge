@@ -10,7 +10,7 @@ metadata:
 spec:
   ingressClassName: alb
   rules:
-    - host: backend.amanpathakdevops.study
+    - host: threetier.sujeetrahate.shop
       http:
         paths:
           - path: /api
