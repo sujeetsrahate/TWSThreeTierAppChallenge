@@ -1,0 +1,17 @@
+# Node
+node_modules/
+npm-debug.log
+
+# Environment files
+.env
+
+# Terraform
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# OS
+.DS_Store
+
+# Logs
+*.log
